@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MerinPhilip
 - 👀 I’m interested in cloud computing and automation.
-- 🌱 I’m currently learning Azure and Terraform.
+- 🌱 Currently learning Azure Devops.
 
 
 <!---
