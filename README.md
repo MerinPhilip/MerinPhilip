@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MerinPhilip
 - 👀 I’m interested in cloud computing and automation.
-- 🌱 Currently learning Azure Devops.
+- 🌱 
+
 
 
 <!---
