@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MerinPhilip
-- 👀 I’m interested in cloud computing and automation.
+- 👀 I’m interested in cloud devops and automation.
 - 🌱 
 
 
